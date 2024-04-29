@@ -358,20 +358,5 @@
     "isTransfer": false,
     "isExpense": true,
     "isEdited": false
-  },
-  {
-    "id": 1,
-    "date": "01/01/2022",
-    "institution": "Desjardins",
-    "account": "Personal chequing account",
-    "merchant": "Rent",
-    "amount": 800.00,
-    "type": "debit",
-    "categoryId": 601,
-    "category": "Rent",
-    "isPending": false,
-    "isTransfer": false,
-    "isExpense": true,
-    "isEdited": false
   }
  ]
